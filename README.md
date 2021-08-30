@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Sofie Wallin
+👋 Hi, I’m Sofie Wallin
