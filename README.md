@@ -8,8 +8,8 @@ I'm an experienced web designer with skills in frontend development. I am passio
 
 * Graphic Design
 * UI/UX
-* HTML/HTML5
-* CSS/CSS3 
+* HTML5
+* CSS3 
 * Responsive web design
 * WordPress
 
